@@ -1,0 +1,99 @@
+[{
+    "id":"1",
+    "nombre":"Iron man",
+    "imagen":"./img/Iron man.jpg",
+    "descripcion":"Tony Stark es un genio, multimillonario, playboy y filántropo. Él no solo inventó la         armadura de Iron Man, sino que se vistió la misma. Él es el ingenioso codirector y uno de los miembros fundadores de los Vengadores.",
+    "asociacion":["Los 4 Fantásticos","Guardianes de la Galaxia","X-Men","The Avengers"],
+    "habilidades":["Superfuerza","durabilidad y resistencia por armadura","Vuelo supersónico","Repulsores de energía y misiles de proyección","Regenerativo soporte vital"]
+},
+{
+    "id":"2",
+    "nombre":"Thor",
+    "imagen":"./img/Thor.jpg",
+    "descripcion":"Thor, es un príncipe-guerrero de Asgard, dios del trueno, protector de la tierra, y de los 9 reinos. Él empuña un martillo, el cual solo podrá ser levantado por alguien que “sea digno de él, el cual obtendrá el poder de Thor”.",
+    "asociacion":["The Avengers","Guardians of the Galaxy","Los tres guerreros"],
+    "habilidades":["Fuerza sobrehumana","resistencia","durabilidad","velocidad","agilidad","reflejos","curación","longevidad y sentidos","Manipulación del clima y la materia","Manipulación de energía"]
+},
+{
+    "id":"3",
+    "nombre":"Hulk",
+    "imagen":"./img/Hulk.jpg",
+    "descripcion":"Después de una exposición accidental a los rayos gamma durante la detonación de una bomba experimental, Bruce Banner se transforma físicamente en Hulk cuando está sometido a estrés emocional, a su voluntad o en contra de ella, lo que a menudo lleva a destrozos y conflictos que complican la vida civil de Banner. El nivel de fuerza de Hulk se transmite normalmente de forma proporcional a su nivel de ira. Comúnmente retratado como un salvaje furioso.",
+    "asociacion":["The Avengers","Wolverine"],
+    "habilidades":["resistencia","invulnerabilidad","súper fuerza","regeneración y curación acelerada"]
+},
+{
+    "id":"4",
+    "nombre":"Capitán América",
+    "imagen":"./img/Capitan América.jpg",
+    "descripcion":"El personaje es generalmente representado como el alter ego de Steve Rogers, un joven frágil mejorado a la cima de la perfección humana por un suero experimental S.S.S. (Suero supersoldado) para ayudar a los esfuerzos inminentes del gobierno de Estados Unidos en la Segunda Guerra Mundial. ",
+    "asociacion":["Wolverine","Los 4 Fantásticos","The Avengers","Namor"],
+    "habilidades":["Sentidos","agilidad","velocidad y fuerza sobrehumanas","Gran habilidad con su escudo","Instinto de liderazgo","gran resistencia","inmune a gases y enfermedades","curación y regeneración acelerada","Genio táctico","artista marcial"," acróbata experto"]
+},
+{
+    "id":"5",
+    "nombre":"Doctor Strange",
+    "imagen":"./img/Doctor Strange.jpg",
+    "descripcion":"Es un neurocirujano que sufrió daños en los nervios de sus manos en un accidente de coche. Buscó a Ancestral con la esperanza de curar su discapacidad, pero abandonó esa idea después de que el Antiguo le enseñara a usar y utilizar la magia, convirtiéndose finalmente en el Hechicero Supremo de la Tierra.",
+    "asociacion":["Los Vengadores","Guardianes de la Galaxia","Eternos","Ned Leeds","El Caballero Luna","América Chávez","Barón Mordo","Barón Zemo"],
+    "habilidades":["teletransportación","generación de ilusiones","proyección de energía","Poderes Misticos"]
+},
+{
+    "id":"6",
+    "nombre":"Spiderman",
+    "imagen":"./img/Spiderman.jpg",
+    "descripcion":"Se trata de un superhéroe que emplea sus habilidades sobrehumanas, reminiscentes de una araña, para combatir a otros supervillanos que persiguen fines siniestros.",
+    "asociacion":["Antorcha Humana","Daredevil","Gata Negra","Araña Escarlata","Deadpool","Wolverine","Iron Man","Capitán América"],
+    "habilidades":["fuerza","combate","inteligencia","producir y lanzar telarañas sintéticas","trepar","adherirse y desplazarse a través de muros y edificaciones","sentido arácnido"]
+},
+{
+    "id":"7",
+    "nombre":"Ojo de halcón",
+    "imagen":"./img/Ojo de halcón.jpg",
+    "descripcion":"Su nombre real es Clint Barton. Lo que hace especial a Ojo de Halcón es su asombrosa pericia y su ojo desarrollado con el arco y las flechas, sus flechas trucadas, y su carácter pícaro y temerario. Arquero de feria, de carácter noble, fue malinterpretado por la policía.",
+    "asociacion":["Los Vengadores","Kate Bishop","Hombre Lobo","Hombre Anfibio","Makkari","Barney Barton","Barón Mordo"],
+    "habilidades":["Maestro en arquería","Habilidad de combate","Acróbata experto","Reflejos, velocidad y agilidad al máximo","Experto en diseño de puntas de flecha","Visión precisa"]
+},
+{
+    "id":"8",
+    "nombre":"Viuda negra",
+    "imagen":"./img/Viuda negra.jpg",
+    "descripcion":"Natasha nació en Stalingrado (ahora Volgogrado), Rusia. La primera y más conocida Viuda Negra, es una agente rusa entrenada como espía, artista marcial y francotiradora, y equipada con un arsenal de armas de alta tecnología, que incluye un par de armas energéticas montadas en la muñeca y apodada 'Piquete de la Viuda'.",
+    "asociacion":["Los Vengadores","Barón Mordo","Nick Fury"],
+    "habilidades":["Experta táctica","combatiente cuerpo a cuerpo y agente secreta","Envejecimiento lento y sistema inmunológico mejorado","Tiradora experta y dominio de varias otras armas","Equipo a través de guanteletes: gancho. eliminar gas. taser. explosivos. gránulos de gas lacrimógeno. transmisor de radio."]
+},
+{
+    "id":"9",
+    "nombre":"Black panther",
+    "imagen":"./img/Black panther.jpg",
+    "descripcion":"Es el primer superhéroe de tez negra de la historia de Marvel y se debe destacar que el personaje fue creado con anterioridad al Partido Pantera Negra, el cual fue fundado en octubre del mismo año. Es el rey y protector de la ficticia nación africana de Wakanda.",
+    "asociacion":["Los Vengadores","Guardianes de la Galaxia","Okoye","Everett K. Ross","W'Kabi"],
+    "habilidades":["Fuerza sobrehumana","velocidad","reflejos","agilidad","resistencia","durabilidad","sentidos"]
+
+},
+{
+    "id":"10",
+    "nombre":"Star Lord",
+    "imagen":"./img/Star Lord.jpg",
+    "descripcion":"Peter Jason Quill es un híbrido Celestial-humano y el antiguo líder de los Guardianes de la Galaxia. Tras la muerte de su madre, Quill fue secuestrado por los Devastadores y fue entrenado por Yondu Udonta cuando era niño.",
+    "asociacion":["Guardianes de la Galaxia","Los Vengadores","Los Defensores","Guardia del Infinito","Ravagers","Guardia Imperial Shi'ar","Unidad Frontera"],
+    "habilidades":["uniforme que le otorga fuerza y durabilidad aumentadas","habilidad de viajar a través del espacio","Arma Elemental","pistola especial capaz de proyectar uno de los cuatro elementos (aire, tierra, fuego y agua)"]
+
+},
+{
+    "id":"11",
+    "nombre":"Bruja escarlata",
+    "imagen":"./img/Bruja escarlata.jpg",
+    "descripcion":"El personaje, presentado en sus inicios en una mutante, posee habilidades para alterar la realidad de formas no especificadas y es, además, una poderosa hechicera. Más tarde, se convertiría en miembro regular de Los Vengadores. Con el tiempo, contraería matrimonio con su compañero de equipo llamado Visión.",
+    "asociacion":["Los Vengadores","X-Men","Magneto","Doctor Strange","Agatha Harkness"],
+    "habilidades":["Alteración y distorsión de la realidad","absorción de energía","magia del caos","hechicería","proyección de energía","fragoquinesis","esferas de energía","teletransportación"]
+},
+{
+    "id":"12",
+    "nombre":"Deadpool",
+    "imagen":"./img/Deadpool.jpg",
+    "descripcion":"Un antiguo mercenario mentalmente inestable y desfigurado famoso por gozar de un sentido del humor poco convencional, unos poderes de sanación acelerados, una naturaleza charlatana y cierta tendencia a romper la cuarta pared.",
+    "asociacion":["Cable","Spider-Man","X-Men Coloso","Dominó","Daredevil","Wolverine","Bob"],
+    "habilidades":["Fuerza","resistencia","agilidad y reflejos sobrehumanos","Francotirador","espadachín","experto en artes marciales y explosivos","Inmunidad telepática"]
+
+}]
